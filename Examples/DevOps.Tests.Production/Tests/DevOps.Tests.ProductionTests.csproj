@@ -24,7 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DevOps.Tests.Production\DevOps.Tests.Production.csproj" />
     <ProjectReference Include="..\Source\DevOps.Tests.Production.csproj" />
   </ItemGroup>
 
